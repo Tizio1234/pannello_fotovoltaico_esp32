@@ -12,7 +12,7 @@
 #include "esp_adc/adc_cali.h"
 #include "esp_adc/adc_cali_scheme.h"
 
-#define Y_ADC
+//#define Y_ADC
 
 #define X_ADC_UNIT          (adc_unit_t)ADC_UNIT_1
 #define X_ADC_CHAN          (adc_channel_t)ADC_CHANNEL_7
