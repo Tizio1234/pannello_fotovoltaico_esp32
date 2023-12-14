@@ -2,7 +2,7 @@
 #include <iot_servo.h>
 
 static const servo_config_t servo_cfg = {
-    .max_angle = 180,
+    .max_angle = 120,
     .min_width_us = 500,
     .max_width_us = 2500,
     .freq = 50,

@@ -19,7 +19,9 @@
         "unistd.h": "c",
         "mcpwm_prelude.h": "c",
         "adc_oneshot.h": "c",
-        "iot_servo.h": "c"
+        "iot_servo.h": "c",
+        "freertos.h": "c",
+        "task.h": "c"
     },
     "idf.port": "/dev/ttyUSB0",
     "idf.flashType": "UART"

@@ -4,4 +4,5 @@ idf_component_register(SRCS     "main.c"
                 INCLUDE_DIRS    "."
                                 "./inc"
                 REQUIRES        servo
-                                esp_adc)
+                                esp_adc
+                                freertos)
